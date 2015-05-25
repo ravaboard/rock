@@ -1,0 +1,666 @@
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:2:"
+
+";s:7:"attribs";a:2:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"base";s:20:"http://hbswk.hbs.edu";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:26:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:21:"HBS Working Knowledge";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:154:"Harvard Business School Working Knowledge offers business practitioners a
+first look at cutting-edge research and thinking from more than 200 HBS
+faculty.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-us";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:21:"http://hbswk.hbs.edu/";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:46:"http://hbswk.hbs.edu/images/site/smalllogo.gif";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:21:"HBS Working Knowledge";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:21:"http://hbswk.hbs.edu/";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"width";a:1:{i:0;a:5:{s:4:"data";s:3:"117";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"height";a:1:{i:0;a:5:{s:4:"data";s:2:"35";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"Incentives versus Reciprocity: Insights from a Field Experiment";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7801.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 21 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:32:"Doug J. Chung and Das Narayandas";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7801.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2740:"<div class="wk-rss-header">
+<p><b>by Doug J. Chung and Das Narayandas</b></p></div>
+<div class="wk-rss-body">
+               <div>
+                    <div>
+                    <div>
+                    <p><span>Executive Summary</span> &mdash;
+                        Sales force compensation is a key instrument available to firms for motivating and enhancing sales performance. What are the most effective forms of compensation? In a field experiment involving four regional sales forces of a prominent firm in India, the authors examined the impact of conditional and unconditional bonus schemes. Findings from this study provide guidance to firms on how to use conditional and unconditional compensation to enhance sales rep productivity and better manage the achievement of sales forecasts.
+                        <b></b></p>
+                    </div>
+                    </div>
+                </div>
+		
+
+                
+<div><!-- /begin main -->
+<h4>Author Abstract</h4>
+<p>We conduct a field experiment in which we vary the sales force compensation scheme at an Asian enterprise that sells consumer durable goods. With variation generated by the experimental treatments, we model salesforce performance to identify the effectiveness of various forms of conditional and unconditional compensation. We account for salesperson heterogeneity by using a hierarchical Bayesian framework to estimate our model. We find conditional compensation in the form of quota-bonus incentives to improve performance. We find no evidence that effectiveness differs between a quota-bonus plan and punitive-bonus plan framed as a penalty for not achieving quota. We find unconditional compensation in the form of reciprocity to be effective at improving sales force performance only when given as a delayed reward; when immediate, sales force performance decreases. We also find heterogeneity in the impact of compensation on performance across salespeople; unconditional compensation is more effective for salespeople with high intrinsic ability, whereas conditional compensation is equally effective across all types of salespeople. Lastly, we find seasonality to significantly influence sales volumes for low ability, but not so much for high ability, salespeople.</p>
+<div>
+<h4>Paper Information</h4>
+<ul>
+<li><a href="http://www.hbs.edu/faculty/Publication%20Files/15-084._89bc9bea-0d2d-4a44-a789-fabe66cdafa4.pdf">Full Working Paper Text</a> </li>
+<li>Working Paper Publication Date: April 2015</li>
+<li>HBS Working Paper Number: 15-084</li>
+<li>Faculty Unit:  <a href="http://www.hbs.edu/units/nom/">Negotiation, Organizations & Markets</a>&nbsp;</li>
+</ul>
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7801";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:2:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:6:"643341";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Doug J. Chung";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:116:"Doug J. Chung is an assistant professor of business administration in the Marketing unit at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:50:"http://sands.hbs.edu/photos/facstaff/Ent643341.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:4:"6521";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Das Narayandas";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:100:"Das Narayandas is the James J. Hill Professor of Business Administration at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:48:"http://sands.hbs.edu/photos/facstaff/Ent6521.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:14:"Working Papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:122:"In a field experiment, Doug J. Chung and Das Narayandas examine the impact of conditional and unconditional bonus schemes.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:35:"Career Concerns of Banking Analysts";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7800.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 20 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:43:"Joanne Horton, George Serafeim, and Shan Wu";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7800.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2439:"<div class="wk-rss-header">
+<p><b>by Joanne Horton, George Serafeim, and Shan Wu</b></p></div>
+<div class="wk-rss-body">
+               <div>
+                    <div>
+                    <div>
+                    <p><span>Executive Summary</span> &mdash;
+                        This paper investigates how career concerns of analysts that forecast the performance of potential future employers influence their forecasts. Findings show evidence of a walk-down to beatable earnings when forecasting earnings of future employers, but not of companies that are unlikely to be future employers. Results overall suggest that the conflict of interest faced by banking analysts will contribute to the poor information environment of financial institutions.
+                        <b></b></p>
+                    </div>
+                    </div>
+                </div>
+		
+
+                
+<div><!-- /begin main -->
+<h4>Author Abstract</h4>
+<p>We study how career concerns influence banking analysts' forecasts and how their forecasting behavior benefits both them and bank managers. We show that banking analysts issue early in the year relatively more optimistic and later in the year more pessimistic forecasts for banks that could be their future employers. This pattern is not observed when the same analysts forecast earnings of companies that are not likely to be their future employers. Moreover, we use the Global Settlement as an exogenous shock, which limited outside opportunities and therefore exacerbated career concerns, and show that this forecast pattern is more pronounced after the Settlement. Both analysts and bank executives benefit from this behavior. Analysts issuing more biased forecasts for potential future employers are more likely to face favorable career outcomes, and bank executives appear to profit from the analysts' bias since the bias is associated with higher levels of insider trading. Our results highlight the bias created by asking analysts to rate their outside opportunities in the labor market.</p>
+<div>
+<h4>Paper Information</h4>
+<ul>
+<li><a href="http://ssrn.com/abstract=2596966">Full Working Paper Text</a> </li>
+<li>Working Paper Publication Date: May 2015</li>
+<li>HBS Working Paper Number: 15-085</li>
+<li>Faculty Unit:  <a href="http://www.hbs.edu/units/am/">Accounting and Management</a>&nbsp;</li>
+</ul>
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7800";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:5:"15705";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"George Serafeim";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:151:"George Serafeim is the Jakurski Family Associate Professor of Business Administration in the Accounting and Management unit at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:49:"http://sands.hbs.edu/photos/facstaff/Ent15705.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:14:"Working Papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:132:"Joanne Horton, George Serafeim, and Shan Wu investigate how personal career concerns influence banking analysts' earnings forecasts.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:12:"
+
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:18:"First Look: May 19";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7798.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 19 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:17:"Sean Silverthorne";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7798.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:18086:"<H3>Do bank analysts audition for jobs in their research reports?</H3>
+<p>In the working paper <em>Career Concerns of Banking Analysts</em>, researchers find a connection between optimistic forecasts by banking analysts and the likelihood those analysts will someday be employed by those banks. "Our results highlight the bias created by asking analysts to rate their outside opportunities in the labor market," according to researchers Joanne Horton, George Serafeim, and Shan Wu.</p>
+
+<H3>Pivoting to a direct-to-consumer strategy</H3>
+<p>American Well's innovative service allowing consumers to consult directly with physicians online has been picked up  by high-profile health care companies, who offer the service to their patients. But American Well's executive team believes those companies are not doing enough to promote the service. Should American Well go directly to the consumer? The question is debated in the case  study "American Well: The DTC Decision," by Elie Ofek and Natalie Kindred.</p>
+
+<H3>Land reform and Chinese capitalism</H3>
+<p>Meg Rithmire explores land reforms in the context of Chinese capitalism in the forthcoming book <em>Land Bargains and Chinese Capitalism: The Politics of Property Rights under Reform.</em> In one area of research, the author links "fiscal relations and economic bases to property rights regimes, finding that more 'open' cities are subject to greater state control over land."</p><p>&mdash; Sean Silverthorne</p>
+
+
+<h3>Publications</h3>
+<div>
+  <div>
+    <ul>
+      <li>May 2015</li>
+      <li>Cambridge University Press</li>
+    </ul>
+    <h3><a href="http://www.amazon.com/Land-Bargains-Chinese-Capitalism-Politics/dp/1107539870/">Land Bargains and Chinese Capitalism: The Politics of Property Rights under Reform</a></h3>
+    <div>By: Rithmire, Meg</div>
+  </div>
+  <p><span>Abstract&mdash;</span>Land reforms have been critical to the development of Chinese capitalism over the last several decades, yet land in China remains publicly owned. This book explores the political logic of reforms to land ownership and control, accounting for how land development and real estate have become synonymous with economic growth and prosperity in China. Drawing on extensive fieldwork and archival research, this book tracks land reforms and urban development at the national level and in three cities in a single Chinese region. The study reveals that the initial liberalization of land was reversed after China's first contemporary real estate bubble in the early 1990s and that property rights arrangements at the local level varied widely according to different local strategies for economic prosperity and political stability. In particular, the author links fiscal relations and economic bases to property rights regimes, finding that more "open" cities are subject to greater state control over land.</p>
+  <p>Publisher's link: <a href="http://www.amazon.com/Land-Bargains-Chinese-Capitalism-Politics/dp/1107539870/">http://www.amazon.com/Land-Bargains-Chinese-Capitalism-Politics/dp/1107539870/</a> <br/>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>May 2015</li>
+      <li>Journal of Economic Perspectives</li>
+    </ul>
+    <h3><a href="http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.29.2.213">Bitcoin: Economics, Technology, and Governance</a></h3>
+    <div>By: Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore</div>
+  </div>
+  <p><span>Abstract&mdash;</span>Bitcoin is an online communication protocol that facilitates virtual currency including electronic payments. Since its inception in 2009 by an anonymous group of developers, Bitcoin has served tens of millions of transactions with total dollar value in the billions. Users have been drawn to Bitcoin for its decentralization, intentionally relying on no single server or set of servers to store transactions and also avoiding any single party that can ban certain participants or certain types of transactions. Bitcoin is of interest to economists in part for its potential to disrupt existing payment systems and perhaps monetary systems as well as for the wealth of data it provides about agents' behavior and about the Bitcoin system itself. This article presents the platform's design principles and properties for a non-technical audience; reviews its past, present, and future uses; and points out risks and regulatory issues as Bitcoin interacts with the conventional financial system and the real economy.</p>
+  <p>Publisher's link: <a href="http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.29.2.213">http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.29.2.213</a> <br/>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>May 2015</li>
+      <li>Journal of Public Economics</li>
+    </ul>
+    <h3><a href="http://www.sciencedirect.com/science/article/pii/S0047272715000134">De Gustibus non est Taxandum: Heterogeneity in Preferences and Optimal Redistribution</a></h3>
+    <div>By: Lockwood, Benjamin B., and Matthew Weinzierl</div>
+  </div>
+  <p><span>Abstract&mdash;</span>The prominent but unproven intuition that preference heterogeneity reduces redistribution in a standard optimal tax model is shown to hold under the plausible condition that the distribution of preferences for consumption relative to leisure rises, in terms of first-order stochastic dominance, with income. Given familiar functional form assumptions on utility and the distributions of ability and preferences, a simple statistic for the effect of preference heterogeneity on marginal tax rates is derived. Numerical simulations and suggestive empirical evidence demonstrate the link between this potentially measurable statistic and the quantitative implications of preference heterogeneity for policy.</p>
+  <p>Publisher's link: <a href="http://www.sciencedirect.com/science/article/pii/S0047272715000134">http://www.sciencedirect.com/science/article/pii/S0047272715000134</a> <br/>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>May 2015</li>
+      <li>Kumbh Mela, January 2013: Mapping the Ephemeral Mega City</li>
+    </ul>
+    <h3><a href="http://www.amazon.com/Kumbh-Mela-January-2013-Ephemeral/dp/3775739904">Government and the Minimalist Platform: Business at the Kumbh Mela</a></h3>
+    <div>By: Macomber, John D., and Tarun Khanna</div>
+  </div>
+  <p><span>Abstract&mdash;</span>India's Kumbh Mela, a religious festival occurring once every 12 years at the confluence of the Ganges and Yamuna rivers, attracts over 80 million pilgrims to a temporary "pop-up megacity" over the course of two months. A team of faculty and students from five Harvard schools attended the Kumbh Mela to learn from the phenomenon. The festival was a planning, organizational, financial, and spiritual success-in stark contrast to the understood concept of India as unable to accomplish projects at large scale. The authors propose that the concept of government as a minimalist platform-focusing on a handful of tasks and doing them well-was the key to success. The administration focused on land allocation, roads (mostly for walking), public safety, electricity, and water. Non-government actors provided almost all other products and services. This was a match of ambition with capability that can be replicated in other fast growing, semi-informal cities in the developing world.</p>
+  <p>Publisher's link: <a href="http://www.amazon.com/Kumbh-Mela-January-2013-Ephemeral/dp/3775739904">http://www.amazon.com/Kumbh-Mela-January-2013-Ephemeral/dp/3775739904</a> <br/>
+</div>
+
+
+
+<h3>Working Papers</h3>
+<div>
+<div>
+  <h3><a href="http://ssrn.com/abstract=2332106">Monetary Policy Drivers of Bond and Equity Risks</a></h3>
+  <div>By: Campbell, John Y., Carolin E. Pflueger, and Luis M. Viceira</div>
+</div>
+<p><span>Abstract&mdash;</span>The exposure of U.S. Treasury bonds to the stock market has moved considerably over time. While it was slightly positive on average in the period 1960-2011, it was unusually high in the 1980s and negative in the 2000s, a period during which Treasury bonds enabled investors to hedge macroeconomic risks. This paper explores the effects of monetary policy rules, monetary policy uncertainty, and macroeconomic shocks on nominal bond risks, using a New Keynesian model with habit formation and discrete regime shifts in 1977 and 2000. The increase in bond risks after 1977 is attributed primarily to a shift in monetary policy towards a more anti-inflationary stance, while the more recent decrease in bond risks after 2000 is attributed to a renewed focus on output stabilization combined with decreased volatility of supply shocks and increased volatility of the Fed's long-run inflation target. Endogenous responses of bond risk premia amplify these effects of monetary policy on bond risks.</p>
+<p>Download working paper: <a href="http://ssrn.com/abstract=2332106">http://ssrn.com/abstract=2332106</a></p>
+</div>
+
+<div>
+<div>
+  <h3><a href="http://ssrn.com/abstract=2596966">Career Concerns of Banking Analysts</a></h3>
+  <div>By: Horton, Joanne, George Serafeim, and Shan Wu</div>
+</div>
+<p><span>Abstract&mdash;</span>We study how career concerns influence banking analysts' forecasts and how their forecasting behavior benefits both them and bank managers. We show that banking analysts issue early in the year relatively more optimistic and later in the year more pessimistic forecasts for banks that could be their future employers. This pattern is not observed when the same analysts forecast earnings of companies that are not likely to be their future employers. Moreover, we use the Global Settlement as an exogenous shock, which limited outside opportunities and therefore exacerbated career concerns, and show that this forecast pattern is more pronounced after the Settlement. Both analysts and bank executives benefit from this behavior. Analysts issuing more biased forecasts for potential future employers are more likely to face favorable career outcomes, and bank executives appear to profit from the analysts' bias since the bias is associated with higher levels of insider trading. Our results highlight the bias created by asking analysts to rate their outside opportunities in the labor market.</p>
+<p>Download working paper: <a href="http://ssrn.com/abstract=2596966">http://ssrn.com/abstract=2596966</a></p>
+</div>
+
+
+
+<h3>Cases &amp; Course Materials</h3>
+<div>
+  <div>
+    <ul>
+      <li>Harvard Business School Case 715-023</li>
+    </ul>
+    <h3><a href="https://cb.hbsp.harvard.edu/cbmp/product/715023-PDF-ENG">Governing the 'Chinese Dream': Corruption, Inequality and the Rule of Law</a></h3>
+  </div>
+  <p>Xi Jinping assumed his position as head of China's fifth generation of leaders in 2012. Xi was head of both the People's Republic of China and the Chinese Communist Party, which had ruled China since 1949. Xi inherited a country far more unequal than the one that Mao Zedong, Communist China's first leader, had left behind in 1978. The growth of markets had made China much wealthier but also generated many social problems, including inequality, corruption, and social protests. This case discusses China's political and economic development in the 20th century to situate Xi's-and China's-contemporary challenges.</p>
+  <p>Purchase this case:<br/>
+    <a href="https://cb.hbsp.harvard.edu/cbmp/product/715023-PDF-ENG">https://cb.hbsp.harvard.edu/cbmp/product/715023-PDF-ENG</a></p>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>Harvard Business School Case 315-012</li>
+    </ul>
+    <h3><a href="https://cb.hbsp.harvard.edu/cbmp/product/315012-PDF-ENG">Hospital for Special Surgery (A)</a></h3>
+  </div>
+  <p>Hospital for Special Surgery, a focused factory for orthopedics and joint disease, is contemplating various growth options: further growth in the United Kingdom's National Health Services, management of hospitals in the United States, and/or hospital consulting. This case reviews the issues surrounding growth of a nonprofit institution and the United Kingdom's socialized health care system.</p>
+  <p>Purchase this case:<br/>
+    <a href="https://cb.hbsp.harvard.edu/cbmp/product/315012-PDF-ENG">https://cb.hbsp.harvard.edu/cbmp/product/315012-PDF-ENG</a></p>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>Harvard Business School Case 415-050</li>
+    </ul>
+    <h3><a href="https://cb.hbsp.harvard.edu/cbmp/product/415050-PDF-ENG">Continental Hope Group</a></h3>
+  </div>
+  <p>This case provides an opportunity to examine and discuss how a traditional Chinese private business was launched and developed into a globalizing, multi-industry corporation. It also highlights how second generation entrepreneurs successfully developed an innovative industry model to sustain a green and profitable business; how the company valued, motivated, and retained its talent; and how Chinese private enterprise can go global.</p>
+  <p>Purchase this case:<br/>
+    <a href="https://cb.hbsp.harvard.edu/cbmp/product/415050-PDF-ENG">https://cb.hbsp.harvard.edu/cbmp/product/415050-PDF-ENG</a></p>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>Harvard Business School Case 515-032</li>
+    </ul>
+    <h3><a href="https://cb.hbsp.harvard.edu/cbmp/product/515032-PDF-ENG">American Well: The DTC Decision</a></h3>
+  </div>
+  <p>In late 2013, telehealth company American Well, which developed a digital platform that allowed patients to conduct online medical consultations with physicians, is considering pursuing a direct-to-consumer (DTC) strategy. Founded in 2006, American Well had, to date, primarily sold its solution to health plans, which then provided online care services to their members using their own brand name. But while American Well attracted some of the largest U.S. health insurers as clients, a surprisingly small number of individual members had actually used the online care service. American Well management believed low consumer awareness-the result of insufficient marketing by health plans, among other factors-was hampering uptake of what should be a highly valuable offering for all stakeholders involved. They wondered if a DTC approach, in which American Well would become a consumer brand and market a telehealth service directly to the public, for example through a mobile app, could drive utilization and catapult the business to the next level. If a DTC offering were given the green light, the company had to come up with a coherent marketing plan to launch it and figure out how to manage potential conflicts with existing clients, who might view the move as competing with their own telehealth efforts. Moreover, the move had to be considered in light of other initiatives the company had recently embarked on, such as marketing its platform to pharmacy chains, targeting large employers, and selling kiosks that provided a physical space to conduct online consultations. The case forces students to grapple with the challenges and barriers involved in disrupting an established industry, examine alternative go-to-market strategies and the timing of implementing them, and consider different business models to manage supply and generate revenues. The case also offers a rich analysis of digital marketing issues.</p>
+  <p>Purchase this case:<br/>
+    <a href="https://cb.hbsp.harvard.edu/cbmp/product/515032-PDF-ENG">https://cb.hbsp.harvard.edu/cbmp/product/515032-PDF-ENG</a></p>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>Harvard Business School Case 715-403</li>
+    </ul>
+    <h3><a href="https://cb.hbsp.harvard.edu/cbmp/product/715403-PDF-ENG">Dow: Breakthroughs to World Challenges</a></h3>
+  </div>
+  <p>Dow had adopted the "Breakthroughs to World Challenges" (BWC) program as part of its 10-year 2015 Sustainability Goals. BWC was a set of internal award recognizing products that effectively addressed one of five world challenges: energy and climate change, sustainable water supply, decent affordable housing, personal health, and food supply. By late summer 2014, two products had been designated as BWCs, and two others were set to be announced in the fall. Dow senior executives believed that Dow was creating shared value through its BWC products. As management began drafting the company's sustainability plan for 2015 and beyond, CEO Andrew Liveris confronted the question of whether to maintain, modify, or terminate the BWC program.</p>
+  <p>Purchase this case:<br/>
+    <a href="https://cb.hbsp.harvard.edu/cbmp/product/715403-PDF-ENG">https://cb.hbsp.harvard.edu/cbmp/product/715403-PDF-ENG</a></p>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>Harvard Business School Case 715-044</li>
+    </ul>
+    <h3><a href="https://cb.hbsp.harvard.edu/cbmp/product/715044-PDF-ENG">America's Budget Impasse</a></h3>
+  </div>
+  <p>"America's Budget Impasse" draws on a series of recent government documents to explore America's recent economic performance, President Obama's budget strategy, and the budget proposals of the Republican Senate and House Budget Committees. Using the Economic Reports of the President for 2014 and 2015 and the Budget of the United States for FY 2016, the case summarizes where we've recently been economically, with the Bush tax cuts and Obama's stimulus, where we are today, and where Obama would like us to go. For contrast, it also summarizes Senator Enzi's budget proposal and Congressman Price's budget proposal-the chairs of the Senate and House Budget Committees.</p>
+  <p>Purchase this case:<br/>
+    <a href="https://cb.hbsp.harvard.edu/cbmp/product/715044-PDF-ENG">https://cb.hbsp.harvard.edu/cbmp/product/715044-PDF-ENG</a></p>
+</div>
+
+<div>
+  <div>
+    <ul>
+      <li>Harvard Business School Case 714-033</li>
+    </ul>
+    <h3><a href="https://cb.hbsp.harvard.edu/cbmp/product/714033-PDF-ENG">Should Corporate Profits Be Taxed?</a></h3>
+  </div>
+  <p>Taxing corporations is popular, but why? Corporations do not bear the burden of taxes, people do, and the incidence of the corporate income tax burden is likely to be far different from what many of its supporters assume.</p>
+  <p>Purchase this case:<br/>
+    <a href="https://cb.hbsp.harvard.edu/cbmp/product/714033-PDF-ENG">https://cb.hbsp.harvard.edu/cbmp/product/714033-PDF-ENG</a></p>
+</div><br />
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:5:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7798";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:10:"First Look";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:163:"<H3>Do bank analysts audition for jobs in their research reports?</H3><H3>Pivoting to a direct-to-consumer strategy</H3><H3>Land reform and Chinese capitalism</H3>";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"blurb2";a:1:{i:0;a:5:{s:4:"data";s:147:"Do bank analysts audition for jobs in their research reports? ... Pivoting to a direct-to-consumer strategy ... Land reform and Chinese capitalism.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"Advertisers Get Serious About Playing With Their Brands";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7797.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 18 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:13:"Dina Gerdeman";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7797.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:9842:"<div class="wk-rss-header">
+</div>
+<div class="wk-rss-body">
+<div><!-- /begin main --><p>At last year's Grammy Awards, singer Pharrell Williams wore such an outlandish hat&#8212;a cross between Smokey the Bear's forest-brown lid and The Sorting Hat at Gryffindor&#8212;that it quickly received its own Twitter account.</p>
+
+<p>Then some marketing genius at Arby's, whose <a href="http://www.adweek.com/adfreak/arbys-slayed-grammys-tweet-about-pharrell-williams-hat-155237">corporate logo is a hat of similar design</a>, hit it out of the ballpark. The roast beef chain tweeted Williams a message during the live broadcast: 
+
+<divstyle="width:562px;"><img src="http://hbswk.hbs.edu/images/site/arbys-pharrell.png" /> <!--<span>A new neuroscience study looks at how our brains make purchasing decisions.  <span style="float: right;"><i>&#169;iStock.com/julos</i></span></span>--></div>
+
+ By the next morning, the tweet garnered 75,000 retweets, more than 40,000 favorites, and high-profile media coverage. Williams later auctioned off the hat for charity, which Arby's won with a $44,000 bid.</p>
+
+
+
+<p>Chalk up another win for companies that are willing to be a little playful with their brands, a potentially dangerous tactic that can easily backfire but that creates big wins with consumers if done well. Social media marketing, in fact, is all about interacting with consumers, not hard selling&#8212;and a great way to do that is to spend a little brand equity on playfulness to spark conversations.</p> 
+
+<h3>THE RULES OF PLAY</h3>
+<p>Marketing&#8212;in the form of the mish-mosh of online posting, uploading, commenting, and sharing on YouTube, Twitter, and Instagram&#8212;may appear haphazard, but is in fact governed by a set of rules, the rules of play, according to <a href="http://www.hbs.edu/faculty/Pages/profile.aspx?facId=6446&amp;click=bestbet">John A. Deighton</a>, Harold M. Brierley Professor of Business Administration at Harvard Business School, and Leora Kornfeld, adjunct faculty, Schulich School of Business, York University.</p>
+
+
+
+
+
+<p>Play involves both intentional interaction and turn-taking&#8212;and social media engagement between marketer and consumer certainly qualifies&#8212;making play an appropriate word for "the tomfoolery of much of the current online activity," the researchers recently wrote in a <em>GfK Marketing Intelligence Review</em> article called "<a href="http://www.degruyter.com/view/j/gfkmir.2014.6.issue-2/gfkmir-2014-0095/gfkmir-2014-0095.xml">Beyond Bedlam: How Consumers and Brands Alike Are Playing the Web</a>."</p>
+<p>In the last decade, marketers have used digital media in different ways. First, many brands made it their mission to pursue followers, signing up as many Facebook friends as possible. "Coke was proud to say it had more followers than any other brand," Deighton says. "But that lost favor." Next, online marketers deemphasized treating social media as a broadcast medium and instead focused on generation of viral content. "Getting 10 million hits became the marker," Deighton says.</p>
+<p>These days, marketing mavens realize that social media is best at building emotional bridges with consumers, done by inviting them to be part of the process. And so they are hard at work inventing playful games and other activities to bond company with consumer.</p> 
+<p>Playing on social media, particularly when the playful activity occurs in real time during a live event, can charm an audience&#8212;while in some cases costing little to do so.</p> 
+<p>Dutch shipping container company Maersk Line ran a social media campaign about <a href="https://www.flickr.com/photos/maerskline/sets/72157633349673400/show/">shipping a giraffe</a> from the Auckland Zoo to her new home in Melbourne, showing the giraffe all packed up in a giant container and inviting the public to share their own photos of interesting containers.</p>
+<p>"The cost of running the campaign was under $100,000 which is a tiny budget, and they got a lot of attention from that, with 1.2 million Facebook followers," Deighton says. "It's fascinating when you look at a company like that and what it was able to achieve."</p>
+<p>The company also enjoyed a nice side benefit: As a result of the social media campaign, prospective employees started viewing the company as a fun, interesting place to work, and the company's recruitment costs took a dive. "That's advertising and HR resources that they don't have to use anymore," Kornfeld says.</p>
+<h3>TYPES OF PLAY</h3>
+<p>The researchers categorize several types of play engaged in by marketers.</p>
+<p>One is "<strong>playing against</strong>," used when marketers try to get through to consumers who really don't want to be bothered. On social media, an ad can involve a lot more play than seen in traditional advertising&#8212;in some cases to the point where the consumer isn't sure what, exactly, is being advertised. Comedian Nathan Fielder received publicity for his TV show by briefly opening a parody coffee shop in Los Angeles in 2014 called Dumb Starbucks. Write Deighton and Kornfeld: "The stunt's function as promotion for the show was eventually deduced by journalists and the public. The delayed reveal was an element of play."</p>
+<p>A second type of play is "<strong>playing with</strong>," where company and consumer play together. For example, PepsiCo invited the public to propose new Lay's potato chip flavors, offering $1 million to the person whose flavor earned the most votes on the Lay's website. While many people offered real flavor suggestions, others had fun with the contest, submitting ideas like "7<sup>th</sup> grade locker room" and "summer bike ride bug inside mouth." Images were displayed all over social media, leading to hundreds of thousands of incremental impressions for Lay's.</p>
+<p>Other forms include "<strong>playing with play</strong>," such as skateboarder Tony Hawk's massively viral video of him riding a hoverboard seemingly in mid-air (he later <a href="https://www.youtube.com/watch?v=MFaOogd6YyA">admitted the hoax</a>) and "<strong>who's playing whom</strong>?" such as Toronto mayor Rob Ford's <a href="http://www.thestar.com/opinion/commentary/2014/08/03/why_do_people_want_a_selfie_with_rob_ford_mallick.html">selfie-mania with constituents</a>.</p> 
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/08pSoZMUT10" frameborder="0">&nbsp;</iframe></p>
+
+<h3>GOING TOO FAR</h3>
+<p>Given the loose, spontaneous nature of social media marketing, things can go wrong in a hurry, the researchers note. In the competitive hunt for media coverage, brands have made deliberate "mistakes" or released misleading statements just to induce a spike in online chatter, revealing later that the actions were stunts damaging their credibility. Deighton and Kornfeld say brands should be careful not to take playfulness too far.</p> 
+<p>Boston Red Sox baseball player David Ortiz took a selfie with President Obama, which seemed playful at first until it was later revealed that he had done so on behalf of Samsung cameras. Some fans are not amused when the "soft edge of play" is displaced by "the hard edge of a trick," the researchers say.</p>
+<p>"It wasn't authentic," Deighton says. "You really want to try to cultivate the opposite of that in the culture of your marketing team."</p>
+<p>Social media messages can also backfire when brands try too hard to be youthful and cutting edge, turning off their audiences instead of engaging them. "A lot of brands try really hard to be cool and use hip-hop talk or Kardashian talk, and sometimes they go a little bit too far," Kornfeld says. On social media, that's a mockable offense.</p>
+<p>Yet at the same time, mistakes in this new, more spontaneous and immediate marketing culture are almost expected. "There will be more missteps in this climate than in the button-down climate of copy strategies that didn't change for 20 years," Deighton says.</p>
+<h3>The rules of play</h3>
+<p>The researchers outlined three rules for marketers who play online:</p>
+<p><strong>1. Lighten up a little:</strong> It's important to have fun. Social media planning shouldn't be so contrived and serious.</p>
+<p>"The corporate culture is such that line executives don't want to get playful," Deighton says. "As soon as you try to come up with your positioning line and try to translate that into content, you sound like somebody trying to sell something. Marketing has been a deliberate business for a long time. Now it's not so deliberate at all. We say, lighten up. The dead serious stuff doesn't work."</p> 
+<p><strong>2. No risk, no result:</strong> The public enjoys playing with brands, so companies should decide if they want to invite this playful activity. The reward is attention and consumer engagement. But the risk is that the play may take some unexpected turns, and the brand needs to be prepared to go along for the ride.</p>
+<p>"The biggest obstacle in coaching companies about how to use medium is the reluctance to take chances," Deighton says. "Companies need to take more risks."</p>
+<p><strong>3. Rule out the rules:</strong> Play can generate quite a bit of charm, even when the message is not straightforward. Brands should be creative and flexible&#8212;and as long as the marketing episode does not involve trickery, the public will likely play along happily.</p>
+<p>"Just because you've always done (marketing) this way before doesn't matter as much anymore," Deighton says. "Breaking through the noise is more difficult. You have to be more imaginative." <img src="http://hbswk.hbs.edu/images/site/tack-wk.gif" alt=""/></p>
+
+<div>
+<h3>About the author</h3>
+<p><strong>Dina Gerdeman</strong> is a writer based in Mansfield, Massachusetts.</p>
+
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7797";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:4:"6446";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:16:"John A. Deighton";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:104:"John Deighton is the Harold M. Brierley Professor of Business Administration at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:48:"http://sands.hbs.edu/photos/facstaff/Ent6446.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:16:"Research & Ideas";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:225:"In social media marketing, companies often try to engage consumers with a playful approach. But play is serious business that can backfire if not done correctly. John Deighton and Leora Kornfeld discuss three "rules of play."";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"Mobile Money Services-Design and Development for Financial Inclusion";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7794.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:27:"Rajiv Lal and Ishan Sachdev";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7794.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2005:"<div class="wk-rss-header">
+<p><b>by Rajiv Lal and Ishan Sachdev</b></p></div>
+<div class="wk-rss-body">
+               <div>
+                    <div>
+                    <div>
+                    <p><span>Executive Summary</span> &mdash;
+                        What separates successful mobile money deployments from unsuccessful ones? Research in ten emerging markets shows key similarities in many aspects of the successful deployments, including the regulatory structures set up by their central banks and regulators, their corporate structures, the guiding principles of their business models, and the way in which they went about building their agent networks and driving adoption. Although specific product offerings varied, successful deployments all addressed a major pain point for their target population, were attuned to the local context in terms of demographics, infrastructure, and economics, and were easy for consumers to understand and use.
+                        <b></b></p>
+                    </div>
+                    </div>
+                </div>
+		
+
+                
+<div><!-- /begin main -->
+<h4>Author Abstract</h4>
+<p>Mobile money services are being deployed rapidly across emerging markets as a key tool to further the goal of financial inclusion. Financial inclusion, the development of novel methods to enable individuals at the base of the pyramid to access formal financial services and become part of the formal financial system, is considered a key prerequisite for lifting these populations out of poverty and for driving economic growth.</p>
+<div>
+<h4>Paper Information</h4>
+<ul>
+<li><a href="http://www.hbs.edu/faculty/Pages/download.aspx?name=15-083.pdf">Full Working Paper Text</a> </li>
+<li>Working Paper Publication Date: April 2015</li>
+<li>HBS Working Paper Number: 15-083</li>
+<li>Faculty Unit:  <a href="http://www.hbs.edu/units/marketing/">Marketing</a>&nbsp;</li>
+</ul>
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7794";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:4:"6497";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Rajiv Lal";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:85:"Rajiv Lal is the Stanley Roth, Sr. Professor of Retailing at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:48:"http://sands.hbs.edu/photos/facstaff/Ent6497.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:14:"Working Papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:115:"What separates successful mobile money deployments from unsuccessful ones? Research by Rajiv Lal and Ishan Sachdev.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:38:"Kids Benefit From Having a Working Mom";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7791.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:12:"Carmen Nobel";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7791.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7704:"<div class="wk-rss-header">
+</div>
+<div class="wk-rss-body">
+<div><!-- /begin main --><p>Here's some heartening news for working mothers worried about the future of their children.</p> 
+<p>Women whose moms worked outside the home are more likely to have jobs themselves, are more likely to hold supervisory responsibility at those jobs, and earn higher wages than women whose mothers stayed home full time, according to a new study. Men raised by working mothers are more likely to contribute to household chores and spend more time caring for family members.</p> 
+
+
+
+<p>The findings are stark, and they hold true across 24 countries.</p> 
+<p>"There are very few things, that we know of, that have such a clear effect on gender inequality as being raised by a working mother," says <a href="http://www.hbs.edu/faculty/Pages/profile.aspx?facId=6569&amp;click=bestbet">Kathleen L. McGinn</a>, the Cahners-Rabb Professor of Business Administration at Harvard Business School, who conducted the study with Mayra Ruiz Castro, a researcher at HBS, and Elizabeth Long Lingo, an embedded practitioner at Mt. Holyoke College. </p>
+<p>McGinn's<a href="http://hbswk.hbs.edu/item/7036.html"> previous research</a>, with Katherine Milkman of Wharton Business School, found that female attorneys are more likely to rise through the ranks of a firm (and less likely to leave) when they have female partners as mentors and role models. McGinn, Castro, and Lingo wondered how nontraditional role models influenced gender inequality at home&#8212;both in terms of professional opportunities and household responsibilities.</p> 
+<p>"The link between home and the workplace is becoming more and more critical as we have two-wage-earning families," McGinn says. "We tend to talk more about inequality in the workplace, and yet the inequality in the home is really stuck."</p> 
+
+<p><a href="http://www.hbs.edu/about/video.aspx?v=1_dap8c4sz">Click Here</a></p>
+
+<p>In developed countries, employed women in two-parent households report that they spend an average of 17.7 hours per week caring for family members, while employed men report devoting about 9, according to the researchers. At the same time, women report spending an average of 17.8 hours per week on housework, while men report an average of 8.8 hours. </p>
+<H3>the global effect of working moms</H3>
+<p>To gauge the global effect of working moms, the researchers dug into data from the <a href="http://www.issp.org/page.php?pageId=150">International Social Survey Programme</a>, a global consortium of organizations that conduct social science research, and studied 2002 and 2012 responses to a survey called "Family and Changing Gender Roles." They supplemented these data with data on employment opportunities and gender inequality across countries.</p>
+<p>The survey included several pages of questions related to gender attitudes, home life, and career path. The researchers were primarily interested in the answer to one key question: Did your mother ever work for pay, after you were born and before you were 14? </p>
+<p>"It didn't matter to us if she worked for a few months one year, or worked 60 hours per week during your whole childhood," McGinn says. "We weren't interested in whether your mom was an intense professional, but rather whether you had a role model who showed you that women work both inside and outside the home. We wanted to see how that played out."</p>
+<p>The research team aimed to find out whether growing up with a working mom influenced several factors, including employment, supervisory responsibility, earnings, allocation of household work, and care for family members.</p> 
+<p>Survey respondents included 13,326 women and 18,152 men from 24 developed nations. The researchers based their analyses on responses collected from the 2002 and 2012 surveys. They categorized the countries by their attitudes toward gender equality, both at home and in the workplace. </p>
+<p>"Liberalizing Egalitarians" were those countries where respondents' attitudes toward gender were already egalitarian in 2002 and became even more so over the following decade (Denmark, Finland, Norway, Sweden, France, Germany, and Slovenia). "Stagnating Moderates" leaned slightly egalitarian in 2002 and remained stagnant in the following decade (Israel, the United States, Great Britain, Spain, Australia, Czech Republic, Poland, Slovakia, Switzerland, Austria, Japan, and Taiwan). "Stagnating Conservatives" started off with conservative attitudes toward gender roles in 2002 and stayed that way (Chile, Latvia, Mexico, Philippines, and Russia.)</p>
+<p>Men tended to report more conservative gender attitudes than women-with the exception of Mexico, where women were more conservative than men, McGinn says.</p> 
+<p>The researchers controlled for factors including: age; marital status; religion; years of education; urban versus rural dwelling; average Female Labor Force participation in the respondent's home country during the years the respondent was 0 to 14 years old; Economic Freedom Index in the respondent's home country during the survey year; Gender Inequality Index in the respondent's home country; and Gross Domestic Product in the respondent's home country. Stripping those things away, they focused on the effects of being raised by a mother who worked outside the home. "The direct effects are significant across the board," McGinn says.</p> 
+
+
+<p>The data showed that men were just as likely to hold supervisory jobs whether or not their moms had worked outside the home. But women raised by working mothers were more likely to supervise others at work.</p> 
+<H3>Effects on income</H3>
+<p>The data also showed that while being raised by a working mother had no apparent effect on men's relative wages, women raised by working moms had higher incomes than women whose moms stayed at home full time. The one exception: women who reported conservative attitudes toward gender equality. "It's only for earnings that having conservative gender attitudes reduces the effect of a working mom," McGinn says. "For all of the rest of them, having had a non-traditional role model at home has a direct effect on the outcomes, regardless of attitudes."</p>
+
+
+<p>As for men whose moms ever worked outside the home, they were more likely to contribute to household chores and spent more time caring for family members. "Growing up, what was being modeled for sons was the idea that you share the work at home," McGinn says.</p> 
+<p>Women spent about the same amount of time caring for family members, regardless of whether their moms worked outside the home. However, "When we segmented just for people who have children at home, we found that women who are raised by a working mom actually spend more time with their kids," McGinn says, adding that this includes women who grew up to become working moms themselves.</p> 
+<p>"There's a lot of parental guilt about having both parents working outside the home," McGinn says. "But what this research says to us is that not only are you helping your family economically&#8212;and helping yourself professionally and emotionally if you have a job you love&#8212;but you're also helping your kids. So I think for both mothers and for fathers, working both inside and outside the home gives your kids a signal that contributions at home and at work are equally valuable, for both men and women. In short, it's good for your kids." <img src="http://hbswk.hbs.edu/images/site/tack-wk.gif" alt=""/></p>
+
+<div>
+<h3>About the author</h3>
+<p><strong>Carmen Nobel</strong> is senior editor of <em>Working Knowledge</em>.</p>
+
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7791";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:4:"6569";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"Kathleen L. McGinn";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:103:"Kathleen L. McGinn is the Cahners-Rabb Professor of Business Administration at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:48:"http://sands.hbs.edu/photos/facstaff/Ent6569.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:16:"Research & Ideas";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:274:"Women whose moms worked outside the home are more likely to have jobs themselves, are more likely to hold supervisory responsibility at those jobs, and earn higher wages than women whose mothers stayed home full time, according to research by Kathleen McGinn and colleagues.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Humblebragging: A Distinct-and Ineffective-Self-Presentation Strategy";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7789.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 14 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:49:"Ovul Sezer, Francesca Gino, and Michael I. Norton";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7789.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2398:"<div class="wk-rss-header">
+<p><b>by Ovul Sezer, Francesca Gino, and Michael I. Norton</b></p></div>
+<div class="wk-rss-body">
+               <div>
+                    <div>
+                    <div>
+                    <p><span>Executive Summary</span> &mdash;
+                        To humblebrag is to make a boast sound like a complaint, as in the example, "It annoys me when people mistake me for a celebrity." Humblebragging is so common in social media and everyday life that one could assume it is an effective self-promotional tactic. Yet five studies show this tactic tends to backfire because it makes other people doubt the sincerity of the humblebragger.
+Indeed, straightforwardly bragging is the better way to go. The authors of this paper also examine the psychology underlying humblebragging as an impression management tactic and highlight the role of perceived sincerity in impression management.
+                        <b></b></p>
+                    </div>
+                    </div>
+                </div>
+		
+
+                
+<div><!-- /begin main -->
+<h4>Author Abstract</h4>
+<p>Humblebragging-bragging masked by a complaint-is a distinct and, given the rise of social media, increasingly ubiquitous form of self-promotion. We show that although people often choose to humblebrag when motivated to make a good impression, it is an ineffective self-promotional strategy. Five studies offer both correlational and causal evidence that humblebragging has both global costs-reducing liking and perceived sincerity-and specific costs: it is even ineffective in signaling the specific trait that a person wants to promote. Moreover, humblebragging is less effective than simply complaining, because complainers are at least seen as sincere. Despite people's belief that combining bragging and complaining confers the benefits of both self-promotion strategies, humblebragging fails to pay off.</p>
+<div>
+<h4>Paper Information</h4>
+<ul>
+<li><a href="http://ssrn.com/abstract=2597626">Full Working Paper Text</a> </li>
+<li>Working Paper Publication Date: April 2015</li>
+<li>HBS Working Paper Number: 15-080</li>
+<li>Faculty Units:  <a href="http://www.hbs.edu/units/nom/">Negotiation, Organizations & Markets</a>&nbsp; <a href="http://www.hbs.edu/units/marketing/">Marketing</a>&nbsp;</li>
+</ul>
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7789";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:3:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:6:"271812";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Francesca Gino";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:133:"Francesca Gino is a Professor of business administration in the Negotiation, Organizations & Markets Unit at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:50:"http://sands.hbs.edu/photos/facstaff/Ent271812.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:6:"326229";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Michael I. Norton";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:109:"Michael I. Norton is a Professor of Business Administration in the Marketing unit at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:50:"http://sands.hbs.edu/photos/facstaff/Ent326229.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:6:"508167";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Ovul Sezer";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:113:"Ovul Sezer is a Doctoral Student in the Negotiations, Organizations, and Markets unit at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:50:"http://sands.hbs.edu/photos/facstaff/Ent508167.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:14:"Working Papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:102:"Ovul Sezer, Francesca Gino, Michael I. Norton examine the psychology and efficacy of "humblebragging."";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"How Crowds and Experts Kickstart the Arts";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7790.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:18:"Christian Camerota";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7790.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7020:"<div class="wk-rss-header">
+</div>
+<div class="wk-rss-body">
+<div><!-- /begin main --><p>Philosophers have talked by turns about both the "wisdom" and "madness" of crowds. But when it comes to assessing and funding the arts, just how wise are crowds&#8212;and how does their wisdom compare to that of art experts?</p>
+<p>HBS Associate Professor <a href="http://www.hbs.edu/faculty/Pages/profile.aspx?facId=294193&amp;click=bestbet">Ramana Nanda</a> sought to answer those questions <a href="http://www.hbs.edu/faculty/Publication%20Files/14-116%20(3)_5dfe7025-e2cc-4e07-bfb4-f4204ae3d52c.pdf">in a recent study</a>, which compared funding decisions of startup theater productions made by art-loving masses on crowdfunding website <a href=" https://www.kickstarter.com/">Kickstarter</a> with evaluations by experts in the field.</p>
+
+
+
+<p>Crowdfunding platforms represent a major shift in the way art projects seek support and find success. Since its founding in 2009, Kickstarter has raised more than $1.5 billion for over 80,000 art projects, opening doors and lifting curtains for many projects that couldn't or wouldn't otherwise have gotten off the ground and onto the stage. In fact, <a href="https://www.kickstarter.com/discover/categories/art">Kickstarter now raises more money for artistic projects</a> each year than the National Endowment for the Arts (NEA), an independent federal agency established in 1966, which also funds artistic endeavors, albeit through very different means.</p>
+<p>Where the NEA has a nearly 50-year history of art market-making, with vetted mechanisms for ensuring artistic quality and value, Kickstarter offers almost the opposite&#8212;it makes funding more into a matter of marketing savvy and mouse clicks. Hence Nanda's curiosity about the artistic merit therein.</p> 
+
+<divstyle="width:562px;"><img src="http://hbswk.hbs.edu/images/site/theater.closed.png" /> <span>The crowd identified breakout theater hits the experts sometimes ignored,<br/> but also backed a box office bomb. <span style="float: right; margin-top: -14px;"><i>&#169;iStock.com/jganser</i></span></span></div>
+
+<p>"Crowdfunding has enabled a democratization of access [to funding]," Nanda says in his office at <a href="http://www.hbs.edu/entrepreneurship/">the Rock Center for Entrepreneurship</a> at Harvard Business School. "That could be both potentially positive and negative. There is a lot of critically acclaimed artwork that could be systematically overlooked by crowds. On the other hand, you could imagine that experts aren't always good at keeping in touch with where consumers want to go."</p>
+<h3>When experts and  crowds collide</h3>
+<p>To better understand the gaps and overlaps between crowds and experts, Nanda and co-author Ethan Mollick, of the University of Pennsylvania's Wharton School, began their study with a full set of applications for theater projects from Kickstarter and stripped them of their outcome information. They then distributed a set of three project successes and three failures to a group of individuals that had previously judged for organizations like the NEA and other funding bodies. </p>
+<p> "The idea was quite simple: to render the projects the way the crowd saw them on Kickstarter, without outcome information, and have the judges look at them and judge them on things like artistic merit, feasibility, furthering cultural dialogue, and some sense of commercial viability," Nanda says. </p>
+<p>There were two broad sets of results. The first was a "positive and statistically significant" correlation between the scores judges assigned and the outcomes of the crowd, suggesting that on average the two groups saw projects similarly based on the above criteria. The second set of findings was on divergent projects, which Nanda and Mollick were especially interested in. What did the crowd like that the experts did not and vice-versa? </p>
+<p> "First, it's important to consider that there's a bit of an art to raising money from the crowd," Nanda says. "Sometimes the judges liked projects for which the artists hadn't quite figured that part out. That said, most of the disagreements were on projects that the crowd liked but that the judges would potentially have given less money to or not have funded at all. Those particular crowd favorites showed more variance. They were more likely to be breakout hits, but also included one flop that judges might potentially have been able to stop." </p>
+<p>The crowd aggregation allowed the funding of many projects that were slightly outside the purview of what judges focused on, suggesting that Kickstarter's democratization enables a greater breadth of artistic production, says Nanda. At the same time, the study recognized that Kickstarter supporters weren't always applying the same kind of discipline and rigor in their analysis of projects. They simply liked a project and supported it, or didn't. </p>
+<p> "Overall, the general sense is that the projects that found success on Kickstarter were by no means crazy," Nanda says. "Quite the opposite. The average size of the project in our sample was similar to the average size of a project funded by the NEA. And yet, you can imagine that the kinds of projects people put on Kickstarter and the kind they submit to the NEA are quite different in composition and style, which is why we can't definitively say whether crowdfunding is a substitute to grant-making bodies such as the NEA." </p>
+<h3>Receiving funding is an art itself</h3>
+<p>There are a number of extensions of the study Nanda says would be especially interesting and revealing if pursued. Those include looking at projects that applied to both Kickstarter and the NEA, where the discrepancies in funding would better show what succeeds where and why.</p>
+<p>But the overall lesson for artists and entrepreneurs remains a valuable one&#8212;their commitment to funding, whether cleverly accomplished through crowdfunding or more technically done through grant writing, often requires as much dedication as the artistic process itself. </p>
+<p> "Democratizing access for art funding is a good thing," Nanda says. "In that sense, crowdfunding is best seen as a complement to governmental support. There's no question that many projects being funded on Kickstarter would have been too small or too unconventional for many foundations, and we found they were still of critical quality and substance.</p> 
+<p>"In that sense, we found that we can't reject the wisdom of crowds."</p>
+<p><em>This article first appeared on the Harvard Business School website under the title, <a href="http://www.hbs.edu/news/articles/Pages/crowdfunding-arts-nanda.aspx">How Crowdfunding Kickstarts the Arts</a>.</em> <img src="http://hbswk.hbs.edu/images/site/tack-wk.gif" alt=""/></p>
+
+<div>
+<h3>About the author</h3>
+<p><strong>Christian Camerota</strong> is assistant director of communications at Harvard Business School.</p>
+
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7790";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:6:"294193";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Ramana Nanda";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:105:"Ramana Nanda is an associate professor in the Entrepreneurial Management unit at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:50:"http://sands.hbs.edu/photos/facstaff/Ent294193.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:16:"Research & Ideas";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:169:"Ramana Nanda and Ethan Mollick look into how experts and crowds --the National Endowment for the Arts and Kickstarter--make choices about backing proposed theater shows.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:17:"Financing Payouts";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7787.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:54:"Joan Farre-Mensa, Roni Michaely, and Martin C. Schmalz";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7787.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3243:"<div class="wk-rss-header">
+<p><b>by Joan Farre-Mensa, Roni Michaely, and Martin C. Schmalz</b></p></div>
+<div class="wk-rss-body">
+               <div>
+                    <div>
+                    <div>
+                    <p><span>Executive Summary</span> &mdash;
+                        This paper is the first to systematically study the extent to which industrial public firms in the US rely on the proceeds of security issues to fund payouts.  By simultaneously raising and paying out capital, firms can accomplish a number of objectives, such as jointly managing their capital structure and cash holdings, monitoring managers' investment decisions, engaging in market timing, or increasing earnings-per-share. These results paint a very different picture from the commonly held view that payouts are first and foremost a vehicle to return free cash flow to investors. Key concepts include:
+                        <ul><li>A third of aggregate payouts is not funded by internally generated funds but rather is financed in the capital markets via net debt or equity issues. Conversely, a staggering 34 percent of the capital firms raise in the capital markets is paid out by the same firms during the same year.</li>
+
+<li>The pervasiveness, economic magnitude, and persistence of financed payouts suggest that the benefits associated with this behavior are more important than it has been recognized by prior work. At the same time, the external financing costs associated with financed payouts may be less important than it is assumed in the literature.</li>
+
+<li>Firms' payout and issuance decisions are intrinsically related. Much can be gained by studying them jointly as interdependent elements of the financial ecosystem.</li>
+</ul>
+<b></b></p>
+                    </div>
+                    </div>
+                </div>
+		
+
+                
+<div><!-- /begin main -->
+<h4>Author Abstract</h4>
+<p>The established conventional wisdom is that payouts are first and foremost a vehicle to return free cash flow to investors. In stark contrast, we find that 32% of aggregate payouts are simultaneously raised in the capital markets by the same firms, mainly through debt but also through equity. Conversely, issuers pay out 39% of the aggregate proceeds of net debt issues and 19% of the proceeds of firm-initiated equity issues during the same year. Over 42% of payout payers engage in such "payout financing" behavior, which is widespread among both dividend-paying and repurchasing firms. The frequency, magnitude, and persistence of financed payouts are unexpected, particularly in light of the obvious costs associated with this behavior. Cross-sectional analyses suggest that firms use financed payouts to manage their capital structure, monitor managers, engage in market timing, and boost earnings-per-share.</p>
+<div>
+<h4>Paper Information</h4>
+<ul>
+<li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535675">Full Working Paper Text</a> </li>
+<li>Working Paper Publication Date: April 2015</li>
+<li>HBS Working Paper Number: 15-049</li>
+<li>Faculty Unit:  <a href="http://www.hbs.edu/units/finance/">Finance</a>&nbsp;</li>
+</ul>
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7787";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:6:"603395";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:16:"Joan Farre-Mensa";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:97:"Joan Farre-Mensa is an assistant professor of business administration at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:50:"http://sands.hbs.edu/photos/facstaff/Ent603395.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:14:"Working Papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:191:"Research by Joan Farre-Mensa and colleagues is the first to systematically study the extent to which industrial public firms in the US rely on the proceeds of security issues to fund payouts.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:11:"
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"What Do Private Equity Firms Say They Do?";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7795.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 May 2015 10:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:56:"Paul A. Gompers, Steven N. Kaplan, Vladimir Mukharlyamov";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"http://hbswk.hbs.edu/rss/7795.html";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2246:"<div class="wk-rss-header">
+<p><b>by Paul A. Gompers, Steven N. Kaplan, Vladimir Mukharlyamov</b></p></div>
+<div class="wk-rss-body">
+               <div>
+                    <div>
+                    <div>
+                    <p><span>Executive Summary</span> &mdash;
+                        In a survey of 79 private equity firms managing more than $750 billion in capital, the authors provide granular information on PE managers' practices in determining capital structure, valuing transactions, sourcing deals, governance, and operational engineering. Among the findings, very few investors use DCF or net present value techniques to evaluate investments, relying instead on internal rates of return and multiples of invested capital. This result conflicts with the focus on net present value in most business school finance courses.
+                        <b></b></p>
+                    </div>
+                    </div>
+                </div>
+		
+
+                
+<div><!-- /begin main -->
+<h4>Author Abstract</h4>
+<p>We survey 79 private equity investors with combined assets under management (AUM) of over $750 billion about their practices in firm valuation, capital structure, governance, and value creation. Investors rely primarily on internal rate of return (IRR) and multiples to evaluate investments. Their limited partners (LPs) focus more on absolute performance. Capital structure choice is based equally on optimal trade-off and market timing considerations. PE investors anticipate adding value to portfolio companies, with a greater focus on increasing growth than on reducing costs. We also explore how the actions that PE managers say they take group into specific firm strategies and how those strategies are related to firm founder characteristics.</p>
+<div>
+<h4>Paper Information</h4>
+<ul>
+<li><a href="http://ssrn.com/abstract=2600524">Full Working Paper Text</a> </li>
+<li>Working Paper Publication Date: April 2015</li>
+<li>HBS Working Paper Number: 15-081</li>
+<li>Faculty Units:  <a href="http://www.hbs.edu/units/em/">Entrepreneurial Management</a>&nbsp; <a href="http://www.hbs.edu/units/finance/">Finance</a>&nbsp;</li>
+</ul>
+</div>
+
+</div>
+<!-- /main or wk-rss-body -->
+</div>
+<!-- /pdf-column rss-column -->
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:19:"http://www.hbs.edu/";a:4:{s:4:"wkid";a:1:{i:0;a:5:{s:4:"data";s:4:"7795";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"persons";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:1:{s:6:"person";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:19:"http://www.hbs.edu/";a:4:{s:5:"entid";a:1:{i:0;a:5:{s:4:"data";s:4:"6463";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Paul A. Gompers";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"desc";a:1:{i:0;a:5:{s:4:"data";s:101:"Paul A. Gompers is the Eugene Holman Professor of Business Administration at Harvard Business School.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:48:"http://sands.hbs.edu/photos/facstaff/Ent6463.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}s:8:"itemtype";a:1:{i:0;a:5:{s:4:"data";s:14:"Working Papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"blurb";a:1:{i:0;a:5:{s:4:"data";s:268:"In a survey of 79 private equity firms, Paul A. Gompers, Steven N. Kaplan, and Vladimir Mukharlyamov provide granular information on PE managers' practices in determining capital structure, valuing transactions, sourcing deals, governance, and operational engineering.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}s:42:"http://www.itunes.com/dtds/podcast-1.0.dtd";a:7:{s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:20:"For Business Leaders";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:23:"Harvard Business School";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:235:"HBS Working Knowledge is a forum for innovation in business practice, offering readers a first look at cutting-edge thinking and the opportunity to both influence and use these concepts before they enter mainstream management practice.";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"owner";a:1:{i:0;a:6:{s:4:"data";s:11:"
+    
+    
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:42:"http://www.itunes.com/dtds/podcast-1.0.dtd";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:21:"HBS Working Knowledge";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:13:"hbswk@hbs.edu";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}s:5:"image";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"href";s:47:"http://hbswk.hbs.edu/images/site/podcastart.jpg";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"text";s:8:"Business";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:8:"explicit";a:1:{i:0;a:5:{s:4:"data";s:2:"no";s:7:"attribs";a:0:{}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:32:"http://hbswk.hbs.edu/rss/rss.xml";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:21:"http://hbswk.hbs.edu/";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:7:{s:6:"server";s:7:"HBS/1.0";s:4:"date";s:29:"Mon, 25 May 2015 08:10:05 GMT";s:12:"content-type";s:8:"text/xml";s:13:"last-modified";s:29:"Thu, 21 May 2015 12:37:15 GMT";s:4:"etag";s:18:"W/"11252-555dd17b"";s:16:"content-encoding";s:4:"gzip";s:4:"vary";s:15:"accept-encoding";}s:5:"build";s:14:"20150525064020";}
